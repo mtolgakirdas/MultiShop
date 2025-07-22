@@ -1,0 +1,4 @@
+5001 identity mikroservisi ayaða kaldýrýldý
+8080 catalog mikroservisi ayaða kaldýrýldý
+8081 Discount mikroservisi ayaða kaldýrýldý
+8082 Order mikroservisi ayaða kaldýrýldý
