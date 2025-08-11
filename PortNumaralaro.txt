@@ -2,3 +2,4 @@
 8080 catalog mikroservisi ayaða kaldýrýldý
 8081 Discount mikroservisi ayaða kaldýrýldý
 8082 Order mikroservisi ayaða kaldýrýldý
+8083 Basket mikroservisi ayaða kaldýrýldý
